@@ -1,7 +1,7 @@
 # The-Appraisal-App
 
 <p align="center">
-  <img width="460" height="300" src="Appraisal%20Loading.PNG">
+  <img src="Appraisal%20Loading.PNG">
 </p>
 ![Alt text](Appraisal%20Loading.PNG "Loading page").
 ![Alt text](Appraisal%20first.PNG "First Page ")
