@@ -1,13 +1,13 @@
 # The-Appraisal-App User Interface
 
-
-<p align="center"> The Loading page
+The Loading page
+<p> 
   <img src="Appraisal%20Loading.PNG">
 </p>
-<p align="center">
+<p>
   <img src="Appraisal%20first.PNG">
 </p>
-<p align="center">
+<p>
   <img src="Appraisal%20second.PNG">
 </p>
 <p align="center">
